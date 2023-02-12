@@ -55,3 +55,4 @@ class Test_Login(Base_Page):
         login.click_Send_me_code_Button()
         login.Assert_no_such_user_messages()
         time.sleep(5)
+        time.sleep(5)
