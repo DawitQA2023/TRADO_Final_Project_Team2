@@ -11,7 +11,7 @@ class Base_Page:
     def set_up(self):
         print("Initiating Chrome driver")
         self.driver = webdriver.Chrome(service=ChromService(ChromeDriverManager().install()))
-        self.driver.get("https://www.demoblaze.com/")
+        self.driver.get("https://qa.trado.co.il/")
         print("-----------------------------------------")
         print("Tests is started")
         self.driver.implicitly_wait(10)
