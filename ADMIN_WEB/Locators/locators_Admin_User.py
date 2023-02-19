@@ -1,0 +1,10 @@
+class Locators_User:
+    USER_MENU_XPATH = "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/nav[1]/div[2]/a[23]/span[2]"
+    KEBAB_XPATH = "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/span[1]/i[1]"
+    ADD_BUTTON_XPATH = "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]"
+    EXPORT_BUTTON_XPATH = "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]"
+    ADD_BY_BRAND_XPATH = "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[3]"
+    IMPORT_XPATH = "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]"
+    TAMPLET_XPATH = "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[5]"
+    FIRST_NAME_XPATH = "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/form[1]/div[1]/div[2]/span[1]/div[1]/input[1]"
+    LAST_NAME_XPATH = "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/form[1]/div[1]/div[3]/span[1]/div[1]/input[1]"
