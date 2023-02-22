@@ -3,8 +3,8 @@ import allure
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.webdriver import WebDriver
 from selenium.webdriver.support.wait import WebDriverWait
-from TRADO.QA_WEB.Locators.locatorsQA_Sidebar import Locators_SideBar
-from TRADO.QA_WEB.Utils.utils_QA import Utils
+from QA_WEB.Locators.locatorsQA_Sidebar import Locators_SideBar
+from QA_WEB.Utils.utils_QA import Utils
 
 
 class SideBar_Page(Locators_SideBar):

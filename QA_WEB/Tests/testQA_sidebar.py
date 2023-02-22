@@ -2,11 +2,11 @@ import time
 
 import allure
 import pytest
-from TRADO.QA_WEB.Pages.sideBarQA_page import SideBar_Page
-from TRADO.QA_WEB.Utils.utils_QA import Utils
-from TRADO.QA_WEB.Locators.locatorsQA_Sidebar import Locators_SideBar
-from TRADO.QA_WEB.Pages.Pre_Requirment_page.Pre_Requirement_login import Pre_Requirement_Login_Chrome
-from TRADO.QA_WEB.Pages.Pre_Requirment_page.Pre_Requirement_login import Pre_Requirement_Login_Firefox
+from QA_WEB.Pages.sideBarQA_page import SideBar_Page
+from QA_WEB.Utils.utils_QA import Utils
+from QA_WEB.Locators.locatorsQA_Sidebar import Locators_SideBar
+from QA_WEB.Pages.Pre_Requirment_page.Pre_Requirement_login import Pre_Requirement_Login_Chrome
+from QA_WEB.Pages.Pre_Requirment_page.Pre_Requirement_login import Pre_Requirement_Login_Firefox
 
 
 @pytest.mark.usefixtures('Valid_Login_With_login_Code')

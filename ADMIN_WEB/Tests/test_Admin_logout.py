@@ -2,8 +2,8 @@ import allure
 import pytest
 from ADMIN_WEB.Utils.utils_Admin import Utils
 from ADMIN_WEB.Pages.loginAdmin_page import Login_Page
-from ADMIN_WEB.Pages.Pre_Requirment_page.Pre_Requirement_login import Pre_Requirement_Login_Chrome
-from ADMIN_WEB.Pages.Pre_Requirment_page.Pre_Requirement_login import Pre_Requirement_Login_Firefox
+from QA_WEB.Pages.Pre_Requirment_page.Pre_Requirement_login import Pre_Requirement_Login_Chrome
+from QA_WEB.Pages.Pre_Requirment_page.Pre_Requirement_login import Pre_Requirement_Login_Firefox
 
 
 class Test_LogOut_Chrome(Pre_Requirement_Login_Chrome):
