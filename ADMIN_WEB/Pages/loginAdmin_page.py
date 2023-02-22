@@ -4,7 +4,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import allure
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.webdriver import WebDriver
-from selenium.webdriver.support.wait import WebDriverWait
+from selenium.support.wait import WebDriverWait
 from ADMIN_WEB.Locators.locators_Admin_Login import Locators_Login,Locators_LogOut
 from ADMIN_WEB.Utils.utils_Admin import Utils
 
