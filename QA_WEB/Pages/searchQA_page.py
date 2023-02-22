@@ -6,8 +6,8 @@ import allure
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.webdriver import WebDriver
 from selenium.webdriver.support.wait import WebDriverWait
-from TRADO.QA_WEB.Locators.locatorsQA_Search import Locators_Search
-from TRADO.QA_WEB.Utils.utils_QA import Utils
+from QA_WEB.Locators.locatorsQA_Search import Locators_Search
+from QA_WEB.Utils.utils_QA import Utils
 
 
 class Search_Page(Locators_Search):

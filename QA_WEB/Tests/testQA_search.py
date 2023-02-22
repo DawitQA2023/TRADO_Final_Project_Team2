@@ -1,8 +1,8 @@
 import allure
 import pytest
-from TRADO.QA_WEB.Pages.searchQA_page import Search_Page
-from TRADO.QA_WEB.Utils.utils_QA import Utils
-from TRADO.QA_WEB.Pages.Pre_Requirment_page.Pre_Requirement_login import Pre_Requirement_Login_Chrome
+from QA_WEB.Pages.searchQA_page import Search_Page
+from QA_WEB.Utils.utils_QA import Utils
+from QA_WEB.Pages.Pre_Requirment_page.Pre_Requirement_login import Pre_Requirement_Login_Chrome
 
 
 class Test_Search_Chrome(Pre_Requirement_Login_Chrome):

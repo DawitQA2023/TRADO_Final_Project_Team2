@@ -5,11 +5,11 @@ import pytest
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
-from TRADO.Server.DataBase.MongoDB import login_code_Generating_query
-from TRADO.QA_WEB.Locators.Pre_Requiremen_Locators.Pre_Requirement_Locators import Pre_Requirement_Locators
-from TRADO.QA_WEB.Base.base_Chrome_QA import Base_Chrome
-from TRADO.QA_WEB.Base.base_FireFoxQA import Base_FireFox
-from TRADO.QA_WEB.Utils.utils_QA import Utils
+from Server.DataBase.MongoDB import login_code_Generating_query
+from QA_WEB.Locators.Pre_Requiremen_Locators.Pre_Requirement_Locators import Pre_Requirement_Locators
+from QA_WEB.Base.base_Chrome_QA import Base_Chrome
+from QA_WEB.Base.base_FireFoxQA import Base_FireFox
+from QA_WEB.Utils.utils_QA import Utils
 
 
 class Pre_Requirement_Login_Chrome(Base_Chrome):
