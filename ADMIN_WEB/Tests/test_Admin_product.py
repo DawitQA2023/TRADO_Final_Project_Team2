@@ -1,8 +1,8 @@
 import allure
 import pytest
-from TRADO.ADMIN_WEB.Utils.utils_Admin import Utils
-from TRADO.ADMIN_WEB.Pages.productAdmin_page import Product_Page
-from TRADO.ADMIN_WEB.Pages.Pre_Requirment_page.Pre_Requirement_login import Pre_Requirement_Login_Chrome
+from ADMIN_WEB.Utils.utils_Admin import Utils
+from ADMIN_WEB.Pages.productAdmin_page import Product_Page
+from QA_WEB.Pages.Pre_Requirment_page.Pre_Requirement_login import Pre_Requirement_Login_Chrome
 
 
 
