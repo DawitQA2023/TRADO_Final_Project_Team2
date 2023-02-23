@@ -5,7 +5,7 @@
 
 ## 👨‍💻Author 
 - VERSION: 1.0.0
-- Dawit Samson Belay
+- Tech-career QA-AUTOMATION TEAM-2
 - [Link To GitHub/Team2](https://github.com/DawitQA2023)
 
 
@@ -32,19 +32,46 @@
 >* Jenkins = is an open source automation server which enables developers around the world to reliably build, test, and deploy their software.
 
 
+
+
 ## 🚧 About The project
+>* The Name of the project is
+>* >     TRADO FINAL PROJECT TEAM 2
 >* This project is Build in Python programming language using POM and have Multiple class and directory's. 
->* > ABOUT "Demoblaze"
+>* 
+>* > ABOUT "TRADO"
    >-- We believe performance needs to be validated at every stage of the software development cycle and our open source compatible, massively scalable platform makes that a reality.
->* To start this website it will ask the Username and password to enter the 
->* There are 3 categorises found in this website these are Phone, Laptops and Monitors.
->* In each catagory we have different products and models found which the user can add them to the cart.
->* From this website after the user login successfully user select the products and add them to cart. and by filing the all details on place order form and purchases products.
->* This project consist of 2 main directory's these are WEB and API.
->* In the Web directory there are 5 subdirectories and in the API directory there are 2 subdirectories
->* This website has 6 components which needed to be checked this are (Home, Contact, About, Cart, Login , SignUp)
->* To run the test or tested by selenium testing tool and pytest
->* For making reporting I used Allure reporting technique 
+>* This project we have two websites those are QA TRADO and QA Admin.  
+>* As we can see there are many shortcomings in the E-commerce activity, which increases the cost per end-product for 
+>* the end-retailer. Therefor TRADO provides a solution for all limitations, in a sale price aspect, price for shipping
+>* and financing of the transaction.
+>* When we open the browser and search QA Trado website then the QA Trado.
+>* we get two options, the first cocktail and the second restaurant after that Save.
+>* when click the save button we get the QA Trado home page . if we want to use this website we should be sign up  
+>* To create account, we should be connected mongodb with phone number than accept verification code,after that insert code then sign up.
+>* When we use the QA Admin open browser we should Enter phone number and password then we have two options those are Daniel and Trado 
+>* pages we select Trado pages.
+>* This website has 5 component which needed to be checked these are (Dashboard,products,Orders,payments and users categories).
+>
+>* We created Three main directories for both QA and Admin part of the website
+>* ADMIN_WEB, QA_WEB, AND SERVER DIRECTORY
+>*  For each directory has sub-categories (Bases, Locators, Pages, Tests, Utilities)
+>* Base test --  It contains - a written code which can be used for every time (commen functions)
+>* Locators  -- It contains the path for each element in the  website
+>* Pages  -- Inside the page there is pre-requirement page which is used to as a fixture 
+>* Utilities --- This directory contains The assertion methods 
+>* Tests  ----  This directory contains  test running codes 
+>*  Server connection to mongodb 
+
+>* In this project done by 
+>
+>    NAME                                            RESPONSIBILITY
+ --  Dawit belay  ----------------------------------  Team Leader
+>*   Tesfahun Adis ---------------------------------  Team Member
+>*   Werkineh Fekadu -------------------------------  Team Member
+>*   Bzuayehu Belete  ------------------------------  Team Member
+>*   Aderajew Yalew   ------------------------------  Team Member
+>    Wasse Adisu      ------------------------------  Team Member
 
 
 ## 📈 Diagram 
@@ -102,3 +129,5 @@
 
 
 ### 🙌☺️️☺️🙌  Thank you!!!    🙌☺️️☺️🙌
+ 
+
