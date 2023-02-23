@@ -1,0 +1,1 @@
+{"uuid": "0f45a2a1-227d-4e2e-ba77-4ebeb5dcc4c0", "children": ["dd573cd9-348b-4aef-9a13-21a181ffadbd"], "befores": [{"name": "set_up_Chrome", "status": "passed", "start": 1677004385568, "stop": 1677004401158}], "afters": [{"name": "set_up_Chrome::0", "status": "passed", "start": 1677004412054, "stop": 1677004414301}], "start": 1677004385568, "stop": 1677004414301}
