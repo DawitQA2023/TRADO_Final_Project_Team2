@@ -30,7 +30,7 @@
 >* implicitly_wait = sets a sticky timeout to implicitly wait for an element to be found, or a command to complete.
 >* execute_script = The commands to be executed are passed as arguments to the method. Some operations like scrolling down in a page cannot be performed by Selenium methods directly
 >* Jenkins = is an open source automation server which enables developers around the world to reliably build, test, and deploy their software.
-
+>* PyMongo = is a Python distribution containing tools for working with MongoDB.
 
 
 
@@ -76,10 +76,13 @@
 
 ## 📈 Diagram 
 * The General Flow Chart Diagram for the Overall Project
-![img.png](screenshot/FlowChart.png)
+![img.png](screenshoot/qa.png )
+![img.png](screenshoot/admin.png )
 
 ## 📸 Screenshot 
-![img.png](screenshot/Allure_WebTest_report.png)
+![img.png](screenshoot/automation.png)
+![img.png](screenshoot/plan.png)
+![img.png](screenshoot/plan.png)
 
 
 
